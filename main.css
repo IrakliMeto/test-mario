@@ -1,0 +1,109 @@
+
+.body {
+    background-color: rgb(45, 44, 53);
+}
+h1 {
+    color:black;
+    background-color:greenyellow;
+    text-align: center;
+    border:silver solid 3px;
+    font-size: 50px;
+    font-style: oblique;
+    text-decoration:inherit;
+    padding: 50px;
+    margin: 1%;
+}
+.container {
+    width: 96%;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 0;
+}
+.grid-item {
+    width: 96%;
+    height: 100px;
+    display: inline-block;
+}
+.yellow {
+    width: 20%;
+    background-color: yellow;
+}
+.red {
+    background-color:red ;
+    width: 20%;
+}
+.green {
+    background-color: green;
+    width: 58%;
+}
+.container1 {   
+    width: 96%;
+    font-size: 0;
+}
+.grid-item1 {
+    width: 47%;
+    height: 100px;
+    display: inline-block;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.blue { 
+    background-color: blue;
+    
+}
+.orange {   
+    background-color: orange;
+}
+.container2 {   
+    width: 96%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    font-size: 0;
+}
+.grid-item2 {
+    width: 32%;
+    height: 100px;
+    display: inline-block;
+}
+.black {
+    background-color: black;
+}
+.grey {
+    background-color: grey;
+}
+.violet {
+    background-color: violet;
+}
+.container3 {
+    width: 96%;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 0%;
+}
+.grid-item3 {   
+    height: 200px;
+    display: inline-block;
+}
+.red1 {  
+    background-color: red;
+    width: 20%;
+    margin:1% 4% 1% 11%;
+}
+.green1 {
+    background-color: green;
+    width: 20%;
+    margin:1% 4% 1% 4%;
+}
+.silver {
+    width: 20%;
+    margin:1% 4% 1% 4%;
+    background-color: blue;
+}
